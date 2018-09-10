@@ -1,0 +1,348 @@
+[
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536601286803,
+            "changeTime": 1536601286803,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536601286810,
+            "changeTime": 1536601286810,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165225,
+            "changeTime": 1536607165225,
+            "contentHash": "6a6a10104c98be813cfa773fcb95addb9847972e"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536601286810,
+            "changeTime": 1536601286810,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536601493486,
+            "changeTime": 1536601493486,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\fields\\Discount_Percentage__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\fields\\Discount_Percentage__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 730,
+            "modifiedTime": 1536607165156,
+            "changeTime": 1536607165156,
+            "contentHash": "b043300842eba72215ad74783cb40ab2aa2c125f"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\fields\\Discounted_Amount__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\fields\\Discounted_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 696,
+            "modifiedTime": 1536607165157,
+            "changeTime": 1536607165157,
+            "contentHash": "8f9b9fd6dd0907dbfc73e168ff9f286bb726f22d"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\webLinks\\Calculate_Discount.webLink-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\webLinks\\Calculate_Discount.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 882,
+            "modifiedTime": 1536607165158,
+            "changeTime": 1536607165158,
+            "contentHash": "d99ad8954476067380830c9c18c5629136d01f54"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8747,
+            "modifiedTime": 1536607165168,
+            "changeTime": 1536607165168,
+            "contentHash": "ea604602312424045166b33b1db97741656427f1"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8601,
+            "modifiedTime": 1536607165174,
+            "changeTime": 1536607165174,
+            "contentHash": "fb7f76a2dade2e0a766adc4b6c95bb4c44d522ab"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8504,
+            "modifiedTime": 1536607165180,
+            "changeTime": 1536607165180,
+            "contentHash": "b677408ff100ffc07ce92e73a698cc3f15adfc0e"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8641,
+            "modifiedTime": 1536607165194,
+            "changeTime": 1536607165194,
+            "contentHash": "b8731998e1836f85057281fd8fdb3ce2fc32c811"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\flows\\Calculate_discounts-1.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\flows\\Calculate_discounts-1.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6624,
+            "modifiedTime": 1536607165210,
+            "changeTime": 1536607165210,
+            "contentHash": "b498c70e00290049f0624b4c870004dae820803c"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\flowDefinitions\\Calculate_discounts.flowDefinition-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\flowDefinitions\\Calculate_discounts.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1536607165215,
+            "changeTime": 1536607165215,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18073,
+            "modifiedTime": 1536607165237,
+            "changeTime": 1536607165237,
+            "contentHash": "0699da34672c516d65fa417a1d3b6f94c163740d"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5008,
+            "modifiedTime": 1536607165252,
+            "changeTime": 1536607165252,
+            "contentHash": "6c6e1eb9dc998932eb524e574f42ec325065a384"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4672,
+            "modifiedTime": 1536607165255,
+            "changeTime": 1536607165255,
+            "contentHash": "c2bac5cf9100c9238447d42c5f26fc7dcb973683"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4668,
+            "modifiedTime": 1536607165258,
+            "changeTime": 1536607165258,
+            "contentHash": "9f8ee231008d030a4eaf52d4a677c69850a21f87"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165156,
+            "changeTime": 1536607165156,
+            "contentHash": "1180eadcb6f086499c894c8712984ba875e5dd72"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165157,
+            "changeTime": 1536607165157,
+            "contentHash": "5a5cc991c8cd217e98c96eab4a72b0a6cff70cfd"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165154,
+            "changeTime": 1536607165154,
+            "contentHash": "ff325cb88fd1a08d7f1faf3e0187331c07064241"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\webLinks",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\objects\\Opportunity\\webLinks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165157,
+            "changeTime": 1536607165157,
+            "contentHash": "de5a2de7e9977bdd2daf4d32c7c3d1bed05c19ec"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165193,
+            "changeTime": 1536607165193,
+            "contentHash": "c5ade36d37288035b03b0a902c5324ccab128aba"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\flows",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165209,
+            "changeTime": 1536607165209,
+            "contentHash": "7bc2e3b68718a98df11807b5338878003412c1a2"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\flowDefinitions",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\flowDefinitions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165214,
+            "changeTime": 1536607165214,
+            "contentHash": "f3cac13948b146712d05209e0c1aa39ea460af8e"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\TP_DiscountCalculator\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536607165258,
+            "changeTime": 1536607165258,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
